@@ -26,7 +26,7 @@ const ShowPdf = () => {
     <>
       <Container align="center">
         <Typography variant="h2" align="center">
-          PDF viewer
+          PDF Viewer
         </Typography>
         <input
           accept=".pdf"
